@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>My info</title>
+  <link>https://moonkp-1765386.github.io/embeddingOriginalWork.html</link>
+  <description>My original work for INFO 101 - Establishing a Web Site</description>
+  
+  <item>
+  	<title>Hello world</title>
+ 	<link>https://moonkp-1765386.github.io/index.html</link>
+  	<description>A hello-world practice web site</description>
+  </item>
+
+</channel>
+
+</rss>
