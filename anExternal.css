@@ -1,9 +1,12 @@
+body {
+    background-color: lightblue;
+}
 p {
 	margin-left: 10px;
 	color: MediumSeaGreen;
 }
 h2 {
-	border: 2px solid DeepSkyBlue;
+	border: 2px solid Orchid;
 	border-style: dotted;
 	border-radius: 20px;
 	text-align: center;
